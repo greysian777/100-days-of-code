@@ -23,6 +23,6 @@
 ### Day 1: 2018-11-18T09:35:31.415Z
 **Today's Progress**: belajar tentang scraping img dan save ke local directory, savenya pake Bytes.IO
 
-**Thoughts**: berhasil ngesave seluruh image dosen ke local dan ngambilnya tinggal pake object. belajar pake PIllow buat mendeteksi dan ngambil filenya dari website. Dari source filenya src="/foto/dosen/nama.jpg" gak lengkap alamatnya, jadi tinggal ditambah string alamat websitenya aja. Ngesave nama filenya juga tinggal pake split, dari string "/"
+**Thoughts**: berhasil ngesave seluruh image dosen ke local dan ngambilnya tinggal pake object. belajar pake PIllow buat mendeteksi dan ngambil filenya dari website. Dari source filenya src="/foto/dosen/nama.jpg" gak lengkap alamatnya, jadi tinggal ditambah string alamat websitenya aja. Ngesave nama filenya juga tinggal pake split, dari string "/" 
 
 **Link(s) to work**: [Scraper App](https://github.com/svmihar/scraper-matematika-its)
