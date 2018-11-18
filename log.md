@@ -12,12 +12,10 @@
 
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: 2018-11-18T06:52:01.698Z
+**Today's Progress**: belajar tentang scraping img dan save ke local directory memakai selenium webdriver
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: di tutorial ada video yang hilang, sempat kehilangan geckodriver nya karena ternyata harus di install dulu ke $PATH, setelah ada lancar semua ke save ke dalam folder local. sayangnya hanya bisa digunakan di mac. bisa di improve buat scraping semua gambar yagn ada di dalam website matematika, cuman sek mager buat bikinnya karena kelaperan. nasib mahasiswa.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Scraper App](https://github.com/svmihar/scraper-matematika-its)
 
