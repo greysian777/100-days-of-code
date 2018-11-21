@@ -35,3 +35,12 @@
 
 **Link(s) to work**: [ProjectFile ](https://github.com/svmihar/30-days-of-python/tree/master/python-decorator)
 
+### Day 4: Wednesday 21-11-2018 19:23:29
+**Today's Progress**: Atari Asteroid 1979 Javascript
+
+
+**Thoughts**: Belajar tentang geometri yang dipake di html canvas. Seru njir nentuin hidup mati, collision, sama lives yang tersisa. Agak ruwet di bagian radian buat menentukan sudut rotasi, tembakan. Kebanyakan hanya if else if else doang. ingin dibuat agar ship nya bisa pinter terus nembak sendiri. 
+
+**Link(s) to work**: [Atari Asteroid](https://github.com/svmihar/100-days-of-code.git)
+
+
