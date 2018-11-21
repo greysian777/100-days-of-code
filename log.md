@@ -26,3 +26,14 @@
 **Thoughts**: berhasil ngesave seluruh image dosen ke local dan ngambilnya tinggal pake object. belajar pake PIllow buat mendeteksi dan ngambil filenya dari website. Dari source filenya src="/foto/dosen/nama.jpg" gak lengkap alamatnya, jadi tinggal ditambah string alamat websitenya aja. Ngesave nama filenya juga tinggal pake split, dari string "/" 
 
 **Link(s) to work**: [Scraper App](https://github.com/svmihar/scraper-matematika-its)
+
+### Day 3: Wed Nov 21 22:04:17 ICT 2018
+**Today's Progress**: Python decorator
+
+**Thoughts**: hanya konsep dalam memahami decorator, dan bagaimana penggunaan @decorator_function, @decorator_class. baru tau kalau di python bisa masukin banyak argumen(atau paramater di java) ke dalam function dengan (*args, **kwargs) disimpan dengan semacam dictionary yang bisa di loop kwargs nya. Inti dari dictionary ini adalah implementasi unik dari OOP untuk Python, dengan me return function dan bukan variable / data statis. Decorator banyak menggunakan wrapper. Lalu wrapper bisa dirapikan dengan functools import wraps, dan menggunakan syntax @wrapper(nama_fungsi yang di return) untuk mencegah si functionnya ngereturn nama dari argumen orig_function.__name__ nya. 
+
+**bahan**: https://www.youtube.com/watch?v=FsAPt_9Bf3U
+
+
+**Link(s) to work**: [ProjectFile ](https://github.com/svmihar/30-days-of-python/tree/master/python-decorator)
+
