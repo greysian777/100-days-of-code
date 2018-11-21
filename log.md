@@ -10,8 +10,6 @@
 **Link to work:** [Calculator App](https://github.com/svmihar/scraper-matematika-its)
 
 
-
-
 ### Day 1: 2018-11-18T06:52:01.698Z
 **Today's Progress**: belajar tentang scraping img dan save ke local directory memakai selenium webdriver
 
