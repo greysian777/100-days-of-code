@@ -43,4 +43,11 @@
 
 **Link(s) to work**: [Atari Asteroid](https://github.com/svmihar/100-days-of-code.git)
 
+### Day 5: Saturday 24-11-2018 22:23:22
+**Today's Progress**: Python Auto GUI 
+
+
+**Thoughts**: Enak nih buat bikin mechanical turk, jadi bisa key write apapun ke dalam python bahkan bikin command custom. senang saya ngeliatnya. Di contohnya dibuat ngetik pembukaan pancasila 1000 kali. cukup lama nge run nya. 
+
+**Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/python-auto-gui)
 
