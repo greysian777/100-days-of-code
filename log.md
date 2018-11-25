@@ -51,3 +51,10 @@
 
 **Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/python-auto-gui)
 
+### Day 6: Monday 26-11-2018 02:32:17
+**Today's Progress**: Python Text Based RPG Game
+
+
+**Thoughts**: Standard RPG, with HP, mp for special attacks and healing, then attacking enemies. Basic stuff to learn more about OOP in classes. Not so special. 
+
+**Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/rpg-battle)
