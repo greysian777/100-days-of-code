@@ -58,3 +58,13 @@
 **Thoughts**: Standard RPG, with HP, mp for special attacks and healing, then attacking enemies. Basic stuff to learn more about OOP in classes. Not so special. 
 
 **Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/rpg-battle)
+
+
+
+### Day 7: Thursday 29-11-2018 17:40:22
+**Today's Progress**: WhatsApp Bot with Selenium
+
+
+**Thoughts**: menyenangkan apalagi buat semacam mechanical turk yang mencari "nama" dari xpath element si web.whatsapp.com, sayangnya hanya satu command per session jadi kalau ada command baru harus update qr code dari whatsapp-nya. Implementasi ini bisa dipakai buat pengingat rapat, pengingat tugas follow up2 tanpa harus mengetik dengan jari. so much things it can do .
+
+**Link(s) to work**: [Project File]https://github.com/svmihar/30-days-of-python/tree/master/whatsapp-spam-bot)
