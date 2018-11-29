@@ -67,4 +67,4 @@
 
 **Thoughts**: menyenangkan apalagi buat semacam mechanical turk yang mencari "nama" dari xpath element si web.whatsapp.com, sayangnya hanya satu command per session jadi kalau ada command baru harus update qr code dari whatsapp-nya. Implementasi ini bisa dipakai buat pengingat rapat, pengingat tugas follow up2 tanpa harus mengetik dengan jari. so much things it can do .
 
-**Link(s) to work**: [Project File]https://github.com/svmihar/30-days-of-python/tree/master/whatsapp-spam-bot)
+**Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/whatsapp-spam-bot)
