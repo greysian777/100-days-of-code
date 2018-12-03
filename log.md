@@ -68,3 +68,14 @@
 **Thoughts**: menyenangkan apalagi buat semacam mechanical turk yang mencari "nama" dari xpath element si web.whatsapp.com, sayangnya hanya satu command per session jadi kalau ada command baru harus update qr code dari whatsapp-nya. Implementasi ini bisa dipakai buat pengingat rapat, pengingat tugas follow up2 tanpa harus mengetik dengan jari. so much things it can do .
 
 **Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/whatsapp-spam-bot)
+
+
+
+
+### Day 8: Monday 03-12-2018 21:30:28
+**Today's Progress**: Classification from Breast Cancer Dataset with k-NN Python using scikit-learn 
+
+
+**Thoughts**: ternyata salah satu aplikasi jarak euclidean adalah mencari tetangga. Banyak belajar untuk preproses data, dari pc kernel, ngebuat target class, nentuin predictor sampe selesai. Terus baru ngeh tentang f1 scoring. 
+
+**Link(s) to work**: [Project File](https://github.com/svmihar/tubes-data-mining/tree/master/classification)
