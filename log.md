@@ -79,3 +79,11 @@
 **Thoughts**: ternyata salah satu aplikasi jarak euclidean adalah mencari tetangga. Banyak belajar untuk preproses data, dari pc kernel, ngebuat target class, nentuin predictor sampe selesai. Terus baru ngeh tentang f1 scoring. 
 
 **Link(s) to work**: [Project File](https://github.com/svmihar/tubes-data-mining/tree/master/classification)
+
+### Day 9: Sunday 09-12-2018 21:42:30
+**Today's Progress**: Unzipping Files 
+
+
+**Thoughts**: banyak donwload driver dan semuanya zip file, terlalu males untuk ngeklik satu2 buat extract akhirnya mempelajari buat make zipfile library python. tinggal sekali ngetik.
+
+**Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/unzip)
