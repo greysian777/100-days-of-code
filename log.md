@@ -95,3 +95,11 @@
 **Thoughts**: whew. cukup banyak sih, tensorflow gak bisa run di python 3.6++ jadinya harus install enviroment baru yang pake python 3.6.7, tadinya pake ubuntu bash + pyenv-virtualenv ternyata ruwet dan gak bisa keinstall terus python-nya jadinya pake miniconda buat ngatur versi python dan virtualenv nya, pengerjaan baru tau kayak pake canvas di javascript untuk pygame-nya, lalu ngajarin paddle nya pake tf.session() nya juga lucu karena tiap epoch jadi makin pinter what a day. 
 
 **Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/pong-neural-network)
+
+### Day 11: Friday 21-12-2018 20:43:21
+**Today's Progress**: Manual Pong with turtle
+
+**Thoughts**: nah ini baru berasa canvas-nya si html, bener2 di map per pixel dari deteksi collision bola dan paddle sampe check border pun semua manual (di map by pixel)
+
+**Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/pong-neural-network)
+
