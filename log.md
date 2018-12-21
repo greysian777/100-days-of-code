@@ -87,3 +87,11 @@
 **Thoughts**: banyak donwload driver dan semuanya zip file, terlalu males untuk ngeklik satu2 buat extract akhirnya mempelajari buat make zipfile library python. tinggal sekali ngetik.
 
 **Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/unzip)
+
+### Day 10: Friday 21-12-2018 13:03:19
+**Today's Progress**: Pong Neural Network with pygame, tensorflow, opencv
+
+
+**Thoughts**: whew. cukup banyak sih, tensorflow gak bisa run di python 3.6++ jadinya harus install enviroment baru yang pake python 3.6.7, tadinya pake ubuntu bash + pyenv-virtualenv ternyata ruwet dan gak bisa keinstall terus python-nya jadinya pake miniconda buat ngatur versi python dan virtualenv nya, pengerjaan baru tau kayak pake canvas di javascript untuk pygame-nya, lalu ngajarin paddle nya pake tf.session() nya juga lucu karena tiap epoch jadi makin pinter what a day. 
+
+**Link(s) to work**: [Project File]https://github.com/svmihar/30-days-of-python/tree/master/pong-neural-network)
