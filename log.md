@@ -103,3 +103,10 @@
 
 **Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/pong-neural-network)
 
+### Day 12: 2018-12-24 12:02:53
+**Today's Progress**: Learning Git (ngulang, karena banyak lupanya)
+
+**Thoughts**: ammending commit, undoing changes, merging branches, looking commits via git log 
+
+**Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/pong-neural-network)
+
