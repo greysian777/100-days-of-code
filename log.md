@@ -106,7 +106,6 @@
 ### Day 12: 2018-12-24 12:02:53
 **Today's Progress**: Learning Git (ngulang, karena banyak lupanya)
 
-**Thoughts**: ammending commit, undoing changes, merging branches, looking commits via git log 
+**Thoughts**: ammending commit, undoing changes, merging branches, looking commits via git log, git reset: hard, soft, mixed 
 
-**Link(s) to work**: [Project File](https://github.com/svmihar/30-days-of-python/tree/master/pong-neural-network)
-
+**Link(s) to work**: -
