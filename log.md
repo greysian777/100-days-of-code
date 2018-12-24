@@ -106,6 +106,6 @@
 ### Day 12: 2018-12-24 12:02:53
 **Today's Progress**: Learning Git (ngulang, karena banyak lupanya)
 
-**Thoughts**: ammending commit, undoing changes, merging branches, looking commits via git log, git reset: hard, soft, mixed 
+**Thoughts**: ammending commit, undoing changes, merging branches, looking commits via git log, git reset: hard, soft, mixed, mencoba git clean 
 
 **Link(s) to work**: -
